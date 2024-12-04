@@ -7,7 +7,7 @@ to know where you want to search.
 
 WebUpdatesNotifier uses BeautifulSoup to retrieve tags and its content,
 that is what you have to config in the code of the program.
-The the program will look everything below that code.
+The program will look everything below that code.
 
 If you don´t stop running the program it will check the web every hour.
 

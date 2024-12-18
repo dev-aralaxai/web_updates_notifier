@@ -14,7 +14,7 @@ If you don´t stop running the program it will check the web every hour.
 Feel free to make me any suggestion to improve it and do the program
 yours, edit it as you like for your ownpurposes.
 
-Contact me on developer@aralaxai.dev to discuss anything you want.
+Contact me on developer@aralaxai.com to discuss anything you want.
 
 Thanks you very much and enjoy.
 
